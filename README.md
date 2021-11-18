@@ -1,16 +1,20 @@
-# bkip_teste
+# O primeiro é replicar o seguinte layout na tecnologia que tiver mais familiaridade, recomendamos com html e css usando o navegador em forma de mobile (exemplo abaixo no dev tools do chrome). Mas fique livre para usar qualquer outra tecnologia até mesmo o próprio flutter ou outro framework. Nesse desafio iremos avaliar sua capacidade de replicar o layout
 
-A new Flutter project.
+# Instruções
 
-## Getting Started
+Para rodar o  projeto após seguir os passos do [Flutter](https://docs.flutter.dev/get-started/install?utm_source=google)
 
-This project is a starting point for a Flutter application.
+Rodar o comando 
 
-A few resources to get you started if this is your first Flutter project:
+```flutter run```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+e após isso escolher para rodar no Google Chrome.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Imagem a ser replicada
+
+![image](https://user-images.githubusercontent.com/57512581/142489639-6ef54c72-c62e-4526-848c-79adffe7c03e.png)
+
+
+## Minha tela
+
+![replicated](https://user-images.githubusercontent.com/57512581/142489841-5197126a-4d7a-4e5c-8e50-b93ec5d2e947.png)
