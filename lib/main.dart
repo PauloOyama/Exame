@@ -67,7 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Column(
             children: [
               Container(
-                height: MediaQuery.of(context).size.height * 0.35,
+                height: MediaQuery.of(context).size.height * 0.36,
                 child: Row(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
@@ -84,7 +84,10 @@ class _MyHomePageState extends State<MyHomePage> {
                           Container(
                             height: 80,
                             width: 80,
-                            child: CircleAvatar(),
+                            child: CircleAvatar(
+                              backgroundColor: Colors.grey[300],
+                              child: Icon(Icons.person),
+                            ),
                           ),
                           Padding(
                             padding: const EdgeInsets.symmetric(vertical: 5.0),
@@ -216,7 +219,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       ),
                       listTileComponent(
                         Icons.notifications,
-                        'Notification',
+                        'Notifications',
                         'On',
                         Color.fromRGBO(231, 77, 137, 1),
                       ),
