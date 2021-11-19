@@ -17,4 +17,5 @@ e após isso escolher para rodar no Google Chrome.
 
 ## Minha tela
 
-![replicated](https://user-images.githubusercontent.com/57512581/142489841-5197126a-4d7a-4e5c-8e50-b93ec5d2e947.png)
+![12](https://user-images.githubusercontent.com/57512581/142556252-7e1ea705-263a-4fc6-aad6-d81d5680a153.png)
+
